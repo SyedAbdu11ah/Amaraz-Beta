@@ -53,3 +53,4 @@ $app->singleton(
 */
 
 return $app;
+// Developed by Syed Abdullah and Team
